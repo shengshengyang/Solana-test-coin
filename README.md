@@ -4,6 +4,10 @@
 
 https://www.youtube.com/watch?v=zAfhqQTdPJo
 
+或參考文章
+
+https://shengshengyang.github.io/2025/01/23/solana-cli/
+
 ## 實際鑄幣網址
 
 在devnet 測試鑄造
