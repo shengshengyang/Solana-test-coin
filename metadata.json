@@ -1,0 +1,31 @@
+{
+  "name": "Dean Cat Token",
+  "symbol": "TST",
+  "description": "This is a test token created for demonstration purposes.",
+  "image": "https://github.com/shengshengyang/Solana-test-coin/new/main",
+  "external_url": "https://github.com/shengshengyang/Solana-test-coin",
+  "attributes": [
+    {
+      "trait_type": "Purpose",
+      "value": "Test"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Solana"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/shengshengyang/Solana-test-coin/refs/heads/main/cat-logo.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "bosNq2bnxU1xrzV4oPRtzBwYftbcfyuKP9YjYnz2zr2",
+        "share": 100
+      }
+    ]
+  }
+}
